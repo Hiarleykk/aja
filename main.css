@@ -1,0 +1,104 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+header {
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+    padding: 10px 0;
+    text-align: center;
+}
+
+
+section {
+    padding: 20px;
+    margin: 10px;
+}
+
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #f1f1f1;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+.merda img {
+    width: 1500px;
+    height: 800px;
+margin-top: 30px;
+margin-left: 200px;
+    border-radius: 50px;
+    border:  black solid 5px;
+}
+.tatiel {
+    font-size: 20px;
+    text-decoration: underline #000000;
+}
+.nenem {
+    font-size: 30px;
+    color:  #000000;
+}
+.branco{
+    color: white;
+}
+.video {
+    margin-left: 500px;
+}
+a {
+    color: #007BFF;
+    text-decoration: none;
+}
+.nome img {
+
+    margin-left: 20px;
+  width: 20px;
+  height: 20px;
+}
+
+.bosta{
+    font-size: 20px;
+    display: flex;
+justify-content: center;}
+.bosta img{
+    width: 40px;
+  height: 40px;
+}
+.bosta a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+margin: 5PX;
+}
+.bosta p {
+    margin-top: 2px;
+    text-align: center;
+}
+.datan {
+    text-decoration: underline black solid 3px;
+}
+.tarci { 
+    text-align: center;
+}
+.more {
+    margin-left: 900px;
+}
+.augh img{
+    width: 1000px;
+    height: 500px;
+margin-top: 30px;
+margin-left: 500px;
+    border-radius: 50px;
+    border:  black solid 5px;
+}
+.akaka img {
+    width: 1000px;
+    height: 500px;
+margin-top: 30px;
+
+    border-radius: 50px;
+    border:  black solid 5px;
+}
